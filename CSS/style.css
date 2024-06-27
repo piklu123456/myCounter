@@ -1,0 +1,14 @@
+#myDiv {
+    width: 1100px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 21px;
+    background-color: lightyellow;
+    text-align: center;
+    line-height: 300px;
+    font-size: 57px;
+}
+
+.container {
+    text-align: center;
+}
